@@ -33,7 +33,7 @@ answer = "{player_name} had {player_recyds} receiving yards in week 1 of the 202
 ```
 
 This data was then transformed into ```prompt``` and ```completion``` pairs.  The secondary transformation was done to support trial-and-error exploration of different final fine-tuning data formats, as discussed in the 
-[Early Iterations section](#early-iterations-section).
+[Early Iterations section](https://github.com/azlarry/model_fine_tuning_mlx_lm?tab=readme-ov-file#early-iterations).
 
 Finally, the data was split into train, test, and validation files using the expected MLX LM data naming convention:
 
