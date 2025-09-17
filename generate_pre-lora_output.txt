@@ -1,0 +1,29 @@
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Nico Collins have in week 1 of the 2025 NFL season?" --max-tokens 4096 --temp 0                        
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 21175.13it/s]
+==========
+I'm sorry, but as of my knowledge cutoff in early 2023, I don't have real-time or updated data access, including specific statistics for the 2025 NFL season. To find out how many receiving yards Nico Collins had in Week 1 of the 2025 NFL season, I recommend checking the latest statistics on a reliable sports news website, the official NFL website, or a sports statistics database like Pro Football Reference or ESPN. They regularly update player statistics for the current season.<|end|>
+==========
+Prompt: 26 tokens, 98.475 tokens-per-sec
+Generation: 114 tokens, 40.026 tokens-per-sec
+Peak memory: 7.759 GB
+
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Ladd McConkey have in week 1 of the 2025 NFL season?" --max-tokens 4096 --temp 0                        
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 37143.02it/s]
+==========
+I'm sorry, but as of my knowledge cutoff in early 2023, I don't have real-time or updated data access, including specific statistics for the 2025 NFL season. To find out how many receiving yards Ladd McConkey had in Week 1 of the 2025 NFL season, I recommend checking the latest statistics on a reliable sports news website, the official NFL website, or a sports statistics database like Pro Football Reference or ESPN. They provide up-to-date player stats for each season.<|end|>
+==========
+Prompt: 28 tokens, 116.462 tokens-per-sec
+Generation: 119 tokens, 39.149 tokens-per-sec
+Peak memory: 7.760 GB
+
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Rome Odunze have in week 1 of the 2025 NFL season?" --max-tokens 4096 --temp 0                        
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 22374.21it/s]
+==========
+I'm sorry, but as of my knowledge cutoff in early 2023, I don't have real-time or updated data access, including specific statistics for the 2025 NFL season. To find out how many receiving yards Rome Odunze had in Week 1 of the 2025 NFL season, I recommend checking the latest statistics on a reliable sports news website, the official NFL website, or a sports statistics database like Pro Football Reference or ESPN. They regularly update player statistics for the current season.<|end|>
+==========
+Prompt: 27 tokens, 104.818 tokens-per-sec
+Generation: 115 tokens, 39.248 tokens-per-sec
+Peak memory: 7.759 GB

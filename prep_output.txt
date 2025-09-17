@@ -1,0 +1,8 @@
+python prep_finetune_data.py
+Generating train split: 441 examples [00:00, 68830.72 examples/s]
+Map: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:00<00:00, 19556.90 examples/s]
+{'prompt': 'How many receiving yards did Lance McCutcheon have in week 1 of the 2025 NFL season?', 'completion': 'Lance McCutcheon had 0 receiving yards in week 1 of the 2025 NFL season.'}
+{'prompt': 'How many receiving yards did JuJu Smith-Schuster have in week 1 of the 2025 NFL season?', 'completion': 'JuJu Smith-Schuster had 55 receiving yards in week 1 of the 2025 NFL season.'}
+Creating json from Arrow format: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 1158.97ba/s]
+Creating json from Arrow format: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 2770.35ba/s]
+Creating json from Arrow format: 100%|████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 2688.66ba/s]

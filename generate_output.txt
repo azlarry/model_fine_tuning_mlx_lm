@@ -1,0 +1,29 @@
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Nico Collins have in week 1 of the 2025 NFL season?" --max-tokens 4096 --adapter-path adapters --temp 0
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 44330.04it/s]
+==========
+Nico Collins had 25 receiving yards in week 1 of the 2025 NFL season.<|end|>
+==========
+Prompt: 26 tokens, 87.813 tokens-per-sec
+Generation: 25 tokens, 39.113 tokens-per-sec
+Peak memory: 7.777 GB
+
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Ladd McConkey have in week 1 of the 2025 NFL season?" --max-tokens 4096 --adapter-path adapters --temp 0
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 21175.13it/s]
+==========
+Ladd McConkey had 74 receiving yards in week 1 of the 2025 NFL season.<|end|>
+==========
+Prompt: 28 tokens, 130.253 tokens-per-sec
+Generation: 27 tokens, 39.258 tokens-per-sec
+Peak memory: 7.779 GB
+
+
+mlx_lm.generate --model microsoft/Phi-3.5-mini-instruct --prompt "how many receiving yards did Rome Odunze have in week 1 of the 2025 NFL season?" --max-tokens 4096 --adapter-path adapters --temp 0
+Fetching 13 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:00<00:00, 35614.60it/s]
+==========
+Rome Odunze had 0 receiving yards in week 1 of the 2025 NFL season.<|end|>
+==========
+Prompt: 27 tokens, 122.746 tokens-per-sec
+Generation: 25 tokens, 39.378 tokens-per-sec
+Peak memory: 7.778 GB
